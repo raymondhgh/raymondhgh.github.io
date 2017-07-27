@@ -1,6 +1,11 @@
 body {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b0/e5/49/b0e549c2daab13354fead52d142efa0c.jpg")
+    background-image: url("http://i.imgur.com/UCnRjmK.png")
+    background-repeat: no-repeat;
+    background-position: middle top;
+    background-attachment: fixed;
 }
+}
+
 
 h1 {
 
