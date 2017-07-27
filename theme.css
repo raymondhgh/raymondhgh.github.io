@@ -24,4 +24,5 @@ p {
 
 body {
     background-image: url("http://toja.io/images/so-simple-sample-image-4.jpg");
+    background-repeat: no-repeat;
 }
