@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[b]gdfgf[/b]
+
 
 [Link](url) and ![Image](src)
 ```
