@@ -21,3 +21,7 @@ p {
     font-family: "Times New Roman", Times, serif;
 
 }
+
+body {
+    background-image: url("http://toja.io/images/so-simple-sample-image-4.jpg");
+}
