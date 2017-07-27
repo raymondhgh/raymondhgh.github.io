@@ -1,26 +1,15 @@
-h1 {
-    text-align: center;
-}
-
-h1 {
+h2 {
     background-image: url("http://i.imgur.com/fTPqoE8.jpg")
 }
 
-h1 {
-
+h2 {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 80px;
-
-}
-
-h1.thick {
-    font-weight: bold;
+    text-align: center;
 }
 
 p {
-
     font-family: Verdana, Geneva, sans-serif;
-
 }
 
 p {
