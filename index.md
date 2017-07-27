@@ -2,6 +2,8 @@
 <link rel="stylesheet" type="text/css" href="theme.css">
 </head>
 
+<hr />
+
 <h1>Welcome.</h1>
 
 <hr />
