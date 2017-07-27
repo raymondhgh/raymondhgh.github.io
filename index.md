@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css" href="css.css">
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raymondhgh/raymondhgh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
