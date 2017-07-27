@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" type="text/css" href="css.css">
+<link rel="stylesheet" type="text/css" href="theme.css">
 </head>
 
 ## Welcome to GitHub Pages
