@@ -4,6 +4,6 @@
 
 <hr />
 
-<h1>IN PROGRESS.</h1>
+<h2>IN PROGRESS.</h2>
 
 <hr />
