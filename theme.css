@@ -1,6 +1,6 @@
 body {
  
-    background-color: lightblue;
+    background-color: white;
 
 }
 
@@ -36,11 +36,6 @@ p {
 
     font-family: Verdana, Geneva, sans-serif;
 
-}
-
-body {
-    background-image: url("http://toja.io/images/so-simple-sample-image-4.jpg");
-    background-repeat: no-repeat;
 }
 
 p {
