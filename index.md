@@ -5,7 +5,7 @@
 </style>
 </head>
 <body>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zkBqOmelX28" frameborder="0" allowfullscreen></iframe>
+<object width="200" height="200" data=src="https://www.youtube.com/embed/zkBqOmelX28" align="right"></object>
 </body>
 </html>
 
