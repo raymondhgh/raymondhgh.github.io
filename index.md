@@ -13,18 +13,11 @@
 </div>
 </head>
 <body>
-<div id="spoiler" style="display:none">
-<img src="http://i.imgur.com/MDelUKp.jpg" alt="photo1" width="500" height="333.25" style="float:left" />
-<br>
-<img src="http://i.imgur.com/tl7s5tB.jpg" alt="photo2" width="500" height="333.25" style="float:right" />
-<br>
-<img src="http://i.imgur.com/3yTjrxu.jpg" alt="photo3" width="500" height="333.25" style="float:left" />
-<br>
-<img src="http://i.imgur.com/H5Ts98I.jpg" alt="photo4" width="500" height="333.25" style="float:right" />
-<br>
-<img src="http://i.imgur.com/BY65H1p.jpg" alt="photo5" width="500" height="333.25" style="float:left" />
-  </div>
-<button title=">" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
+<img src="http://i.imgur.com/MDelUKp.jpg" alt="photo1" style="float:left" />
+<img src="http://i.imgur.com/tl7s5tB.jpg" alt="photo2" style="float:right" />
+<img src="http://i.imgur.com/3yTjrxu.jpg" alt="photo3" style="float:left" />
+<img src="http://i.imgur.com/H5Ts98I.jpg" alt="photo4" style="float:right" />
+<img src="http://i.imgur.com/BY65H1p.jpg" alt="photo5" style="float:left" />
 </body>
 </html>
 
