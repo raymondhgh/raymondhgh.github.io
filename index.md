@@ -6,6 +6,7 @@
 </head>
 <body>
 <img src="http://i.imgur.com/MDelUKp.jpg" alt="photo1" style="float:left" />
+  tesxt
   <br>
 <img src="http://i.imgur.com/tl7s5tB.jpg" alt="photo2" style="float:right" />
   <br>
