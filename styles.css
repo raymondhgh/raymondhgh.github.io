@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  margin-bottom: 23px
+}
+
+.button:link,
+.button:visited {
+  color: gray;
+  text-decoration: none;
+}
+
+.button:hover,
+.button:visited:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.button:active,
+.button:visited:active {
+  color: white;
+  text-decoration: none;
+}
+
+.navigation ul {
+  font-size: 0.975em;
+  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+.navigation li {
+  padding-bottom: 20px
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: auto;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex: initial;
+  margin-left: 61px;
+  margin-top: 58px;
+  margin-right: 100px;
+}
+
+.main {
+  display: flex;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+}
+
+.column img {
+  width: 480px;
+  margin-bottom: 30px;
+}
