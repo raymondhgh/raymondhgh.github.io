@@ -26,6 +26,12 @@
   text-decoration: none;
 }
 
+.pressedButton:link,
+.pressedButton:visited {
+  color: green;
+  text-decoration: none;
+}
+
 .navigation ul {
   font-size: 0.975em;
   font-family: "Bahnschrift", "Arial", sans-serif;
