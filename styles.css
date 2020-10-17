@@ -26,6 +26,17 @@
   text-decoration: none;
 }
 
+.button::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: black;
+    transition: width .3s;
+}
+.button:hover::after{
+    width: 100%;
+
 .pressedButton:link,
 .pressedButton:visited {
   color: green;
