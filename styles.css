@@ -4,6 +4,21 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-size: 30px;
+}
+
+p {
+  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-size: 18px;
+}
+
+.about {
+  display: flex;
+  align-content: center;
+}
+
 .logo {
   margin-bottom: 23px
 }
@@ -25,17 +40,6 @@
   color: white;
   text-decoration: none;
 }
-
-.button::after{
-    content: '';
-    display: block;
-    width: 0;
-    height: 2px;
-    background: black;
-    transition: width .3s;
-}
-.button:hover::after{
-    width: 100%;
 
 .pressedButton:link,
 .pressedButton:visited {
@@ -81,3 +85,4 @@
   width: 480px;
   margin-bottom: 30px;
 }
+
