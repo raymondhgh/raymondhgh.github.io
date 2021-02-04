@@ -75,6 +75,11 @@ p {
   display: flex;
 }
 
+::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
+
 .content {
   display: flex;
   justify-content: space-between;
@@ -86,3 +91,8 @@ p {
   margin-bottom: 30px;
 }
 
+.portfolio img {
+  width: 1550px;
+  margin-bottom: 30px;
+  margin-right: 61px
+}
