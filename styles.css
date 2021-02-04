@@ -37,13 +37,13 @@ p {
 
 .button:active,
 .button:visited:active {
-  color: white;
+  color: #5F9EA0;
   text-decoration: none;
 }
 
 .pressedButton:link,
 .pressedButton:visited {
-  color: green;
+  color: #008B8B;
   text-decoration: none;
 }
 
