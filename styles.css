@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'DoHyeon-Regular';
+  src: url('/DoHyeon-Regular.ttf');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,12 +10,12 @@
 }
 
 h1 {
-  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-family: "DoHyeon-Regular", "Arial", sans-serif;
   font-size: 30px;
 }
 
 p {
-  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-family: "DoHyeon-Regular", "Arial", sans-serif;
   font-size: 18px;
 }
 
@@ -49,7 +54,7 @@ p {
 
 .navigation ul {
   font-size: 0.975em;
-  font-family: "Bahnschrift", "Arial", sans-serif;
+  font-family: "DoHyeon-Regular", "Arial", sans-serif;
   font-weight: normal;
   list-style-type: none;
 }
