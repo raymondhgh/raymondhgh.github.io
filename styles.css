@@ -27,6 +27,12 @@ p {
   margin-bottom: 23px
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 .button:link,
 .button:visited {
   color: gray;
