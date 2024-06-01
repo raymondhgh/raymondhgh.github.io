@@ -82,6 +82,19 @@ p {
   margin-right: 100px;
 }
 
+.signin {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: auto;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex: initial;
+  margin-left: 61px;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+
 .main {
   display: flex;
 }
